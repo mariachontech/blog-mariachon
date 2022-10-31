@@ -11,7 +11,7 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<h1 className="text-3xl font-bold underline">Test de Contribuir!</h1>
-			<h1 className="text-3xl font-bold underline">Test de propietario!</h1>
+			<h1 className="text-3xl font-bold underline">Buen trabajo!</h1>
 		</div>
 	)
 }
